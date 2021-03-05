@@ -1,6 +1,6 @@
 # A-PROJECT
 BOTz WA
-### INSTALL
+### INSTALL COMMAND
 ```bash
 > pkg update && pkg upgrade
 > pkg install bash -y
@@ -9,7 +9,7 @@ BOTz WA
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Nurutomo/wabot-aq
+> git clone https://github.com/ardhixsquerpants/A-PROJECT
 > cd wabot-aq
 > bash install.sh
 > node index.js
