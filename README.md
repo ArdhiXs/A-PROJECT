@@ -1,9 +1,6 @@
 # A-PROJECT
 BOTz WA
-# wabot-aq
-Simple WhatsApp Bot
-
-### FOR TERMUX USER
+### INSTALL
 ```bash
 > pkg update && pkg upgrade
 > pkg install bash -y
