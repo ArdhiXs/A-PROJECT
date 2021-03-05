@@ -10,7 +10,7 @@ BOTz WA
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/ardhixsquerpants/A-PROJECT
-> cd wabot-aq
+> cd A-PROJECT
 > bash install.sh
 > node index.js
 ```
