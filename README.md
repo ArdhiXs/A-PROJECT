@@ -21,41 +21,15 @@
 > bash install.sh
 > node index.js
 ```
-# Features
+# Fitur
 
-| Sticker Creator |                Feature           |
+| List |                Fitur           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
+|       ✅       | MAKER          |
+|       ✅       | RANDOM                    |
 |       ✅       | Reply A Video or GIF             |
 |       ✅       | Send Video or GIF with Caption   |
 |       ✅       | Reply A Sticker ( sticker to image ) |
-
-| Other  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 				|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
-
-| Group  |                     Feature               |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
-|       ✅        |   Tagall2/Mentionall member       |
-|       ✅        |   Tagall3/Mentionall member       |
-|       ✅        |   Kick Member Group	             |
-|       ✅        |   Add Member Group	             |
-|       ✅        |   Get List Admins Group          |
-|       ✅        |   Get Group Invite Link          |
-|       ✅        |   Bot leave the group            |
-
-| Owner Bot  |                     Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Set Prefix                     |
-|       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats                |
 
 ## SPECIAL THANKS TO
 
