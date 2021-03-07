@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/cIbfUOw.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
+<img src="https://i.imgur.com/cIbfUOw.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="618" height="1000"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Bot Termux A PROJECT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
