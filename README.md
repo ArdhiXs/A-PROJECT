@@ -63,7 +63,7 @@
 * <a href="https://github.com/Nurutomo/wabot-aq"><img alt="GitHub" src="https://img.shields.io/badge/NURUTOMO%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 # APIKEY
-* [![X-TEAM](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://api.xteam.xyz)
+* [![X-TEAM](https://img.shields.io/badge/X-TEAM-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://api.xteam.xyz)
 * <a href="videfikri.com"><img alt="web" src="https://img.shields.io/badge/VIDEFIKRI%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="api.lolhuman.xyz"><img alt="GitHub" src="https://img.shields.io/badge/LOLHUMAN%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="tobz-api.herokuapp.com"><img alt="GitHub" src="https://img.shields.io/badge/TOBZ%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
