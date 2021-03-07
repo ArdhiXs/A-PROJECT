@@ -66,4 +66,4 @@
 * [![X-TEAM](https://img.shields.io/badge/XTEAM-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://api.xteam.xyz)
 * [![VIDEFIKRI](https://img.shields.io/badge/VIDEFIKRI-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://videfikri.com)
 * [![LOLHUMAN](https://img.shields.io/badge/LOLHUMAN-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://api.lolhuman.xyz)
-* [![TOBZ](https://img.shields.io/badge/TOBZ-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tobz-api.herokuapp.com)
+* [![TOBZ](https://img.shields.io/badge/TOBZ-3b5998?style=flat-square&logo=herokuapp&logoColor=white)](https://tobz-api.herokuapp.com)
