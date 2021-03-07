@@ -11,6 +11,7 @@ BOTz WA
 > pkg install imagemagick -y
 > git clone https://github.com/ardhixsquerpants/A-PROJECT
 > cd A-PROJECT
+> unzip A-PROJECT.zip
 > bash install.sh
 > node index.js
 ```
