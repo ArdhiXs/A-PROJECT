@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://1.bp.blogspot.com/-_aTdgkJ5KGc/YEUsIiNRPJI/AAAAAAAAATg/CzM69-XrUYESXshj236ojEzG0lZj_57RwCLcBGAsYHQ/s0/5hJCG2f_d.webp/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="150" height="300"/>
+<img src="https://i.imgur.com/5hJCG2f.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="150" height="300"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Bot Termux A PROJECT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
