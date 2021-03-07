@@ -63,7 +63,7 @@
 * <a href="https://github.com/Nurutomo/wabot-aq"><img alt="GitHub" src="https://img.shields.io/badge/NURUTOMO%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 # APIKEY
-* [![X-TEAM](https://img.shields.io/badge/XTEAM-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://api.xteam.xyz)
-* [![VIDEFIKRI](https://img.shields.io/badge/VIDEFIKRI-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://videfikri.com)
-* [![LOLHUMAN](https://img.shields.io/badge/LOLHUMAN-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://api.lolhuman.xyz)
-* [![TOBZ](https://img.shields.io/badge/TOBZ-3b5998?style=flat-square&logo=herokuapp&logoColor=white)](https://tobz-api.herokuapp.com)
+* [![X-TEAM](https://img.shields.io/badge/XTEAM-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://api.xteam.xyz)
+* [![VIDEFIKRI](https://img.shields.io/badge/VIDEFIKRI-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://videfikri.com)
+* [![LOLHUMAN](https://img.shields.io/badge/LOLHUMAN-3b5998?style=flat-square&logo=ardi&logoColor=white)](http://api.lolhuman.xyz)
+* [![TOBZ](https://img.shields.io/badge/TOBZ-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://tobz-api.herokuapp.com)
