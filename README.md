@@ -27,9 +27,12 @@
 | :-----------: | :--------------------------------: |
 |       ✅       | MAKER          |
 |       ✅       | RANDOM                    |
-|       ✅       | Reply A Video or GIF             |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
+|       ✅       | GABUTz             |
+|       ✅       | OTHER   |
+|       ✅       | DOWNLOAD |
+|       ✅       | EXP & LIMIT |
+|       ✅       | GROUP |
+|       ✅       | OWNER |
 
 ## SPECIAL THANKS TO
 
