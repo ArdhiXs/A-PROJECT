@@ -18,6 +18,7 @@
 > git clone https://github.com/ardhixsquerpants/A-PROJECT
 > cd A-PROJECT
 > unzip A-PROJECT.zip
+> Ketik A enter
 > bash install.sh
 > node index.js
 ```
